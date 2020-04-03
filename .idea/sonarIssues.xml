@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ptp-cloud/gateway/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ptp-cloud/gateway/src/main/java/com/yonyougov/gateway/controller/GatewayController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ptp-cloud/gateway/src/main/java/com/yonyougov/gateway/dto/GatewayFilterDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ptp-cloud/gateway/src/main/java/com/yonyougov/gateway/dto/GatewayPredicateDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ptp-cloud/gateway/src/main/java/com/yonyougov/gateway/dto/GatewayRouteDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ptp-cloud/gateway/src/main/java/com/yonyougov/gateway/repository/JdbcRouteDefinitionRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ptp-cloud/gateway/src/main/java/com/yonyougov/gateway/service/impl/DynamicRouteServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ptp-cloud/gateway/src/test/java/com/yonyougov/gateway/GatewayApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ydw/1.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ydw/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ydw/Customer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ydw/CustomerHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ydw/CustomerRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ydw/CustomerRepositoryImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ydw/RoutingConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/portal-engine/src/main/resources/application-pdev.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/portal-engine/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/门户最新代码/平台适配版本/ptp-page/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/门户最新代码/平台适配版本/ptp-page/src/main/java/com/yonyougov/ant/page/common/CommonDataInject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/门户最新代码/平台适配版本/ptp-page/src/main/java/com/yonyougov/ant/page/common/CompBaseDataInit.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/门户最新代码/平台适配版本/ptp-page/src/main/java/com/yonyougov/ant/page/common/HttpClientUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/门户最新代码/平台适配版本/ptp-page/src/main/java/com/yonyougov/ant/page/controller/MenuTreeController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/门户最新代码/平台适配版本/ptp-page/src/main/java/com/yonyougov/ant/page/service/impl/crux/MenuTreeService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/门户最新代码/平台适配版本/ptp-page/src/main/java/com/yonyougov/ant/page/service/impl/cwy/CwyMenuTreeService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/门户最新代码/平台适配版本/ptp-page/src/main/java/com/yonyougov/ant/page/service/impl/cwy/CwyRoleService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/门户最新代码/平台适配版本/ptp-page/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/门户最新代码/平台适配版本/ptp-page/src/main/resources/static/cwy/js/index.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/门户最新代码/平台适配版本/ptp-page/src/main/resources/static/js/index/H-ui.admin.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
