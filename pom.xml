@@ -6,7 +6,7 @@
 
     <groupId>com.ydw</groupId>
     <artifactId>web-flux</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <name>web-flux</name>
     <!-- FIXME change it to the project's website -->
