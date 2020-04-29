@@ -18,6 +18,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/DockerFile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../gov-website/pom.xml">
           <value>
             <set />
@@ -33,12 +43,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/common/MappingUrlConvert.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/config/DataInitConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/config/DataInjection.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/config/HtmlIdMappingEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/config/MappingConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/config/MappingInitConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/config/ModelMapping.java">
           <value>
             <set />
           </value>
@@ -103,7 +138,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/A.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/DataAbstractService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/IAboutUsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/IGenerateDataService.java">
           <value>
             <set />
           </value>
@@ -123,6 +173,171 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/NewsCenterMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/NewsCenterMapping.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/AboutUsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/Change_materialService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/Change_passwordService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/EcoPartnersService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/EcoPartners_detailsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/GetDataService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/IGenerateDataService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/IndexService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/Invoice_editService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/Invoice_infomationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/MobileIndexService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/NewsCenterService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/Official_indexService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/Order_manageService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/PersonalService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/Personal_indexService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/ProductService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/Safety_centerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/ServiceSupportService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/SolutionForCzsbService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/SolutionForDsjService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/SolutionForGajwbzService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/SolutionForJcjgService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/SolutionForJyhyService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/SolutionForLineTestService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/SolutionForNkythService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/SolutionForPeopleCongressService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/SolutionForSkyService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/SolutionForSlcwService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/SolutionForZcglService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/SolutionForZfcgService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../gov-website/src/main/java/com/yonyougov/govwebsite/service/impl/ThymeleafService.java">
           <value>
             <set />
@@ -133,7 +348,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/resources/static/contentManage/js/articleDetail.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/resources/static/js/articleDetail/articleDetail.js">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../gov-website/src/main/resources/templates/aboutUs/aboutUs.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gov-website/src/main/resources/templates/common/articleDetail.html">
           <value>
             <set />
           </value>
@@ -159,6 +389,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../gov-website/target/classes/static/test.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hello-world/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hello-world/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hello-world/src/main/java/com/ydw/helloworld/HelloWorldApplication.java">
           <value>
             <set />
           </value>
@@ -209,6 +454,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../ptp-cloud/gateway/src/main/java/com/yonyougov/gateway/config/CommonDataInject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ptp-cloud/gateway/src/main/java/com/yonyougov/gateway/config/MyServerCodecConfigurer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ptp-cloud/gateway/src/main/java/com/yonyougov/gateway/config/ResourceServerConfig.java">
           <value>
             <set />
           </value>
@@ -343,6 +598,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ptp-cloud/oauth/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ptp-cloud/pom.xml">
           <value>
             <set />
@@ -388,7 +648,52 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ydw/TestController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/cms/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/cms/src/main/java/com/yonyougov/cms/mapper/CmsContentMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/cms/src/main/resources/application-gov.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/cms/src/main/resources/application-mysql.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/cms/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/cms/src/test/java/com/yonyougov/cms/CmsApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="D:/workspace/用友政务代码/portal-engine/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/portal-engine/src/main/java/com/yonyougov/portal/engine/entity/EngComp.java">
           <value>
             <set />
           </value>
@@ -413,6 +718,16 @@
             <set />
           </value>
         </entry>
+        <entry key="D:/workspace/用友政务代码/portal-engine/src/main/java/com/yonyougov/portal/engine/vo/theme/TelportVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/portal-engine/src/main/resources/application-mysql.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="D:/workspace/用友政务代码/portal-engine/src/main/resources/application-pdev.yml">
           <value>
             <set />
@@ -433,6 +748,51 @@
             <set />
           </value>
         </entry>
+        <entry key="D:/workspace/用友政务代码/uum/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/uum/src/main/java/com/yonyougov/uum/UumApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/uum/src/main/java/com/yonyougov/uum/controller/UumFastLinkController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/uum/src/main/java/com/yonyougov/uum/service/UumFastLinkService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/uum/src/main/java/com/yonyougov/uum/utils/HttpClientUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/uum/src/main/resources/application-mysql.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/uum/src/main/resources/application-ppre.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/uum/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/uum/src/test/java/com/yonyougov/uum/UumApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="D:/workspace/用友政务代码/门户最新代码/平台适配版本/ptp-page/pom.xml">
           <value>
             <set />
@@ -449,6 +809,11 @@
           </value>
         </entry>
         <entry key="D:/workspace/用友政务代码/门户最新代码/平台适配版本/ptp-page/src/main/java/com/yonyougov/ant/page/common/HttpClientUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/门户最新代码/平台适配版本/ptp-page/src/main/java/com/yonyougov/ant/page/config/PtpConfigProperties.java">
           <value>
             <set />
           </value>
@@ -478,6 +843,21 @@
             <set />
           </value>
         </entry>
+        <entry key="D:/workspace/用友政务代码/门户最新代码/平台适配版本/ptp-page/src/main/resources/META-INF/spring-configuration-metadata.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/门户最新代码/平台适配版本/ptp-page/src/main/resources/application-locallinux.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/门户最新代码/平台适配版本/ptp-page/src/main/resources/application-mysql.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="D:/workspace/用友政务代码/门户最新代码/平台适配版本/ptp-page/src/main/resources/application-ppre.yml">
           <value>
             <set />
@@ -499,6 +879,31 @@
           </value>
         </entry>
         <entry key="D:/workspace/用友政务代码/门户最新代码/平台适配版本/ptp-page/src/main/resources/static/js/index/H-ui.admin.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/门户最新代码/平台适配版本/ptp-page/src/main/resources/static/js/index/index.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/门户最新代码/平台适配版本/ptp-page/src/main/resources/templates/comp/base/30005_鼠标滑动常用链接.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/门户最新代码/平台适配版本/ptp-page/src/main/resources/templates/comp/base/30007_待办事项.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/门户最新代码/平台适配版本/ptp-page/src/main/resources/templates/comp/base/30018_资源.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/用友政务代码/门户最新代码/平台适配版本/ptp-page/src/main/resources/templates/index.html">
           <value>
             <set />
           </value>
